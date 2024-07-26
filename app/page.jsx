@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import SocialIcons from "./components/SocialIcons";
 import Partners from "./components/Partners";
 import Testimonal from "./components/Testimonal";
-import HotelList from "./components/HotelLIst";
+import HotelList from "./components/HotelList";
 import Review from "./components/Review";
 
 export default function Page() {
