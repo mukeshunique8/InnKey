@@ -9,6 +9,7 @@ import Partners from "./components/Partners";
 import Testimonal from "./components/Testimonal";
 import HotelList from "./components/HotelList";
 import Review from "./components/Review";
+import Tour from "./components/Tour";
 
 export default function Page() {
   return (
@@ -16,6 +17,7 @@ export default function Page() {
       <Header />
       <Sub/>
       <Features/>
+      <Tour/>
       <Review/>
       <HotelList/>
       <Testimonal/>
