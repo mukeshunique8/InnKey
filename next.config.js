@@ -1,12 +1,10 @@
 module.exports = {
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '',
-        // port: '',
-        // pathname: '/account123/**',
-      }
-    ],
+    // remotePatterns: [
+    //   {
+    //     protocol: 'https',
+    //     hostname: '', // This was causing the issue
+    //   }
+    // ],
   },
 }
